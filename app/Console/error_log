@@ -1,0 +1,24 @@
+[26-Feb-2022 23:39:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php on line 8
+[27-Feb-2022 14:45:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php on line 8
+[27-Feb-2022 14:45:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php on line 8
+[14-Mar-2022 09:33:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php on line 8
+[24-Jun-2022 22:01:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php on line 8
+[24-Jun-2022 22:47:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Console/Kernel.php on line 8

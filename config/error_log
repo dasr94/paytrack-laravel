@@ -1,0 +1,460 @@
+[27-Feb-2022 08:03:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php on line 18
+[27-Feb-2022 14:43:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/app.php on line 16
+[27-Feb-2022 14:43:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php on line 18
+[27-Feb-2022 14:43:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/cache.php on line 21
+[27-Feb-2022 14:43:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/database.php on line 18
+[27-Feb-2022 14:43:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/dz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/dz.php on line 16
+[27-Feb-2022 14:43:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php on line 16
+[27-Feb-2022 14:43:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php on line 32
+[27-Feb-2022 14:43:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/logging.php on line 20
+[27-Feb-2022 14:43:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/mail.php on line 16
+[27-Feb-2022 14:43:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/queue.php on line 16
+[27-Feb-2022 14:43:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[27-Feb-2022 14:43:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/session.php on line 21
+[27-Feb-2022 14:43:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amarwxxl/pickyourcarreernow.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/view.php on line 17
+[27-Feb-2022 14:44:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/app.php on line 16
+[27-Feb-2022 14:44:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php on line 18
+[27-Feb-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/cache.php on line 21
+[27-Feb-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/database.php on line 18
+[27-Feb-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/dz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/dz.php on line 16
+[27-Feb-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php on line 16
+[27-Feb-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php on line 32
+[27-Feb-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/logging.php on line 20
+[27-Feb-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/mail.php on line 16
+[27-Feb-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/queue.php on line 16
+[27-Feb-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[27-Feb-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/session.php on line 21
+[27-Feb-2022 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amarwxxl/pickyourcarreernow.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/view.php on line 17
+[27-Feb-2022 19:33:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/cache.php on line 21
+[27-Feb-2022 19:33:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/database.php on line 18
+[27-Feb-2022 19:33:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php on line 16
+[27-Feb-2022 19:33:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php on line 32
+[27-Feb-2022 19:33:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/logging.php on line 20
+[27-Feb-2022 19:34:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/mail.php on line 16
+[27-Feb-2022 19:34:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/queue.php on line 16
+[27-Feb-2022 19:35:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[27-Feb-2022 19:35:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/session.php on line 21
+[27-Feb-2022 19:36:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amarwxxl/pickyourcarreernow.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/view.php on line 17
+[28-Feb-2022 01:52:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/app.php on line 16
+[28-Feb-2022 01:52:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/dz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/dz.php on line 16
+[28-Feb-2022 21:05:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php on line 18
+[28-Feb-2022 21:06:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[28-Feb-2022 21:06:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/mail.php on line 16
+[28-Feb-2022 21:06:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php on line 32
+[28-Feb-2022 21:06:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php on line 16
+[28-Feb-2022 21:06:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/queue.php on line 16
+[28-Feb-2022 21:06:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/dz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/dz.php on line 16
+[28-Feb-2022 21:07:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amarwxxl/pickyourcarreernow.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/view.php on line 17
+[28-Feb-2022 21:07:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/logging.php on line 20
+[28-Feb-2022 21:07:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/queue.php on line 16
+[28-Feb-2022 21:07:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/dz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/dz.php on line 16
+[28-Feb-2022 21:07:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php on line 32
+[28-Feb-2022 21:07:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php on line 18
+[28-Feb-2022 21:07:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php on line 16
+[28-Feb-2022 21:07:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/cache.php on line 21
+[28-Feb-2022 21:07:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/session.php on line 21
+[28-Feb-2022 21:07:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/database.php on line 18
+[28-Feb-2022 21:07:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/app.php on line 16
+[28-Feb-2022 21:08:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/mail.php on line 16
+[01-Mar-2022 08:16:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/dz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/dz.php on line 16
+[01-Mar-2022 08:16:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/app.php on line 16
+[01-Mar-2022 08:16:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/mail.php on line 16
+[01-Mar-2022 08:16:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amarwxxl/pickyourcarreernow.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/view.php on line 17
+[01-Mar-2022 08:16:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/queue.php on line 16
+[01-Mar-2022 08:16:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/cache.php on line 21
+[01-Mar-2022 08:16:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php on line 32
+[01-Mar-2022 08:16:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/logging.php on line 20
+[01-Mar-2022 08:16:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/session.php on line 21
+[01-Mar-2022 08:16:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/database.php on line 18
+[01-Mar-2022 08:16:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[01-Mar-2022 08:16:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php on line 16
+[01-Mar-2022 08:16:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php on line 18
+[02-Mar-2022 15:16:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[14-Mar-2022 09:31:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/cache.php on line 21
+[14-Mar-2022 09:31:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/app.php on line 16
+[14-Mar-2022 09:31:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php on line 18
+[14-Mar-2022 09:31:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/dz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/dz.php on line 16
+[14-Mar-2022 09:31:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/database.php on line 18
+[14-Mar-2022 09:31:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php on line 16
+[14-Mar-2022 09:31:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/logging.php on line 20
+[14-Mar-2022 09:31:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php on line 32
+[14-Mar-2022 09:31:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/mail.php on line 16
+[14-Mar-2022 09:31:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/session.php on line 21
+[14-Mar-2022 09:31:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/queue.php on line 16
+[14-Mar-2022 09:31:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[14-Mar-2022 09:31:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amarwxxl/pickyourcarreernow.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/view.php on line 17
+[02-Apr-2022 21:58:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[25-Apr-2022 21:38:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/dz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/dz.php on line 16
+[02-May-2022 22:00:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[02-Jun-2022 22:12:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[24-Jun-2022 12:09:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/queue.php on line 16
+[24-Jun-2022 12:21:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php on line 18
+[24-Jun-2022 12:25:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/app.php on line 16
+[24-Jun-2022 12:26:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/cache.php on line 21
+[24-Jun-2022 12:28:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/database.php on line 18
+[24-Jun-2022 12:29:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/dz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/dz.php on line 16
+[24-Jun-2022 12:30:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php on line 16
+[24-Jun-2022 12:31:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php on line 32
+[24-Jun-2022 12:32:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/logging.php on line 20
+[24-Jun-2022 12:33:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/mail.php on line 16
+[24-Jun-2022 12:34:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[24-Jun-2022 12:35:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/session.php on line 21
+[24-Jun-2022 12:35:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amarwxxl/pickyourcarreernow.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/view.php on line 17
+[24-Jun-2022 13:37:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/queue.php on line 16
+[24-Jun-2022 14:02:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/amarwxxl/pickyourcarreernow.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/view.php on line 17
+[24-Jun-2022 14:03:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/session.php on line 21
+[24-Jun-2022 14:04:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/services.php on line 18
+[24-Jun-2022 14:05:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/mail.php on line 16
+[24-Jun-2022 14:06:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/logging.php on line 20
+[24-Jun-2022 14:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/hashing.php on line 32
+[24-Jun-2022 14:07:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/filesystems.php on line 16
+[24-Jun-2022 14:09:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/dz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/dz.php on line 16
+[24-Jun-2022 14:10:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/database.php on line 18
+[24-Jun-2022 14:11:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/cache.php on line 21
+[24-Jun-2022 14:12:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/broadcasting.php on line 18
+[24-Jun-2022 14:12:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/amarwxxl/pickyourcarreernow.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/config/app.php on line 16

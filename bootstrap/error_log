@@ -1,0 +1,32 @@
+[25-Feb-2022 14:05:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php on line 14
+[27-Feb-2022 14:43:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php on line 14
+[27-Feb-2022 14:43:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php on line 14
+[28-Feb-2022 21:07:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php on line 14
+[01-Mar-2022 08:17:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php on line 14
+[14-Mar-2022 09:32:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php on line 14
+[24-Jun-2022 12:18:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php on line 14
+[24-Jun-2022 14:01:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/bootstrap/app.php on line 14

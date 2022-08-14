@@ -1,0 +1,48 @@
+[27-Feb-2022 05:19:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/ChrevadminController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/ChrevadminController.php on line 7
+[27-Feb-2022 05:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/Controller.php on line 10
+[14-Mar-2022 09:34:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/BolsaController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/BolsaController.php on line 7
+[14-Mar-2022 09:34:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/ChrevadminController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/ChrevadminController.php on line 7
+[14-Mar-2022 09:34:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/Controller.php on line 10
+[14-Mar-2022 09:34:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/CategoriaController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/CategoriaController.php on line 7
+[14-Mar-2022 09:34:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/GastoController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/GastoController.php on line 7
+[14-Mar-2022 09:34:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/ProgramadoController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/ProgramadoController.php on line 9
+[17-Mar-2022 18:47:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/ProgramadoController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/ProgramadoController.php on line 9
+[18-Mar-2022 00:11:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/BolsaController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/BolsaController.php on line 7
+[18-Mar-2022 00:43:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/CategoriaController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/CategoriaController.php on line 7
+[18-Mar-2022 11:55:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/GastoController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Controllers/GastoController.php on line 7

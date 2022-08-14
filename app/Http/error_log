@@ -1,0 +1,28 @@
+[27-Feb-2022 02:18:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php on line 7
+[27-Feb-2022 14:45:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php on line 7
+[27-Feb-2022 14:45:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php on line 7
+[28-Feb-2022 21:08:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php on line 7
+[14-Mar-2022 09:33:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php on line 7
+[24-Jun-2022 18:28:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php on line 7
+[24-Jun-2022 21:04:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/amarwxxl/pickyourcarreernow.com/app/Http/Kernel.php on line 7
